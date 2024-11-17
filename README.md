@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently a Computer Science engineering student at EMI university in Morocco Rabat.<br>🤝 I'm looking for an internship (2 months)<br>🌱 I’m currently learning new skills at Big Data, IoT, Business Intelligence, Security and more interesting computer science
+🔭 I am currently a WEB3 Engineer at The Hashgraph Association (THA) and hold a diploma in computer science engineering from the Mohammedia School of Engineering (EMI).<br>🌱 I’m currently learning new skills at Big Data, IoT, Business Intelligence, Security and more interesting computer science
 
 
 ## 🌐 Socials:
