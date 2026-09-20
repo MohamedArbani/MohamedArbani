@@ -2,8 +2,11 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # runs every day at midnight
-  workflow_dispatch:        # lets you run it manually too
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   generate:
@@ -14,7 +17,7 @@ jobs:
       - name: Generate snake.svg
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: aahanabobade
+          github_user_name: MohamedArbani
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
@@ -25,4 +28,4 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.SNAKE_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
