@@ -1,19 +1,148 @@
-# 💫 About Me:
-🔭 I am currently a WEB3 Engineer at The Hashgraph Association (THA) and hold a diploma in computer science engineering from the Mohammedia School of Engineering (EMI).<br>🌱 I’m currently learning new skills at Big Data, IoT, Business Intelligence, Security and more interesting computer science
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,25:6366f1,50:8b5cf6,75:14b8a6,100:22c55e&height=230&section=header&text=Mohamed%20Arbani&fontSize=62&fontColor=ffffff&fontAlignY=42&desc=⚡%20Full-Stack%20Engineer%20%20•%20%20Web3%20Engineer%20%20•%20%20Software%20Builder%20⚡&descAlignY=65&descSize=17&descColor=ffffff&animation=fadeIn" width="100%"/>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/revolver2001/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/wf.mohamed2001) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-arbani-mocha/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/MohamedArbani) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/MohamedArbani1) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@mohamedarbani3905) 
+<br/>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 	![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MohamedArbani&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=MohamedArbani&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedArbani&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=22\&pause=1000\&color=38BDF8\&center=true\&vCenter=true\&width=700\&lines=Building+scalable+full-stack+applications+%F0%9F%9A%80;Engineering+Web3+%26+blockchain+solutions+%F0%9F%94%97;Crafting+modern+React+%26+Next.js+experiences+%E2%9A%A1;Designing+robust+backend+systems+%F0%9F%9B%A0%EF%B8%8F;Always+learning%2C+always+shipping+%F0%9F%9A%A2)](https://git.io/typing-svg)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MohamedArbani&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+</div>
+
+<br/>
+
+## ⚡ About Me
+
+<img align="right" width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXdrZGxxMzNob2ZkOGNqcTB5aDJvazlzbHZwOGlhMHpnMGtoN2x4bSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" style="border-radius:16px; margin-left:20px"/>
+
+Hi! I'm **Mohamed Arbani**, a **Full-Stack & Web3 Software Engineer**
+and a Computer Science Engineering graduate from
+**École Mohammadia d'Ingénieurs (EMI)**.
+
+I enjoy building production-grade applications across the stack —
+from polished frontend experiences to scalable backend systems,
+APIs, cloud infrastructure, and blockchain integrations.
+
+<br/>
+
+🔭 Experienced in **Full-Stack Development, Web3 & Blockchain**<br/>
+⚡  Strong focus on **TypeScript, React, Next.js & Node.js**<br/>
+🔗  Built blockchain applications with **Hedera**<br/>
+🛠️  Backend experience with **NestJS, PostgreSQL, Prisma & APIs**<br/>
+☁️  Hands-on with **AWS, Docker, CI/CD & cloud infrastructure**<br/>
+📱  Exploring **React Native & cross-platform mobile development**
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+## 🌐 Find Me Here
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/mohamed-arbani/) 
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/mohamedarbani) 
+[![Email](https://img.shields.io/badge/Email-EA4335.svg?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:moharbani01@gmail.com) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge\&logo=Facebook&logoColor=white)](https://www.facebook.com/revolver2001/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge\&logo=Instagram&logoColor=white)](https://instagram.com/wf.mohamed2001) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge\&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-arbani-mocha/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge\&logo=Reddit&logoColor=white)](https://reddit.com/user/u/MohamedArbani) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge\&logo=Twitter&logoColor=white)](https://twitter.com/MohamedArbani1) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge\&logo=YouTube&logoColor=white)](https://www.youtube.com/@mohamedarbani3905)  
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+## 💻 Tech Stack
+
+<br/>
+
+**⚡ Languages**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+
+<br/>
+
+**🎨 Frontend**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge\&logo=expo\&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
+
+<br/>
+
+**🚀 Backend & APIs**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge\&logo=nestjs\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![tRPC](https://img.shields.io/badge/tRPC-2596BE?style=for-the-badge\&logo=trpc\&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge\&logo=prisma\&logoColor=white)
+
+<br/>
+
+**🔗 Web3 & Blockchain**
+
+![Hedera](https://img.shields.io/badge/Hedera-000000?style=for-the-badge\&logo=hedera\&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge\&logo=solidity\&logoColor=white)
+![WalletConnect](https://img.shields.io/badge/WalletConnect-3B99FC?style=for-the-badge\&logo=walletconnect\&logoColor=white)
+
+<br/>
+
+**🗄️ Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge\&logo=amazondynamodb\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+
+<br/>
+
+**☁️ Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=githubactions\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+## 📊 GitHub Stats
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohamedarbani&theme=2077" height="170"/>
+&nbsp;&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohamedarbani&theme=2077" height="170"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedarbani&hide_border=true&background=0d001a&ring=38bdf8&fire=6366f1&currStreakLabel=38bdf8&sideLabels=8b5cf6&dates=e0f2fe&currStreakNum=ffffff&sideNums=ffffff&border_radius=16" height="170"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedarbani&bg_color=0d001a&color=38bdf8&line=6366f1&point=14b8a6&area=true&hide_border=true&border_radius=16" width="95%"/>
+
+<br/><br/>
+
+---
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
@@ -23,3 +152,32 @@
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/mohamedArbani) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/mohamedarbani01) 
 
+<br/><br/>
+
+## 🐍 My Contributions
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohamedarbani/mohamedarbani/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohamedarbani/mohamedarbani/output/github-contribution-grid-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/mohamedarbani/mohamedarbani/output/github-contribution-grid-snake-dark.svg" width="95%"/>
+</picture>
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=mohamedarbani\&style=for-the-badge\&color=38bdf8\&labelColor=0d001a\&label=PROFILE+VIEWS)
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:34d399,25:38bdf8,50:6366f1,75:a855f7,100:ff6fd8&height=120&section=footer&text=made%20with%20%E2%99%A5%20by%20Mohamed%20Arbani&fontSize=20&fontColor=ffffff&animation=fadeIn" width="100%"/>
+
+</div>
